@@ -37,7 +37,7 @@ body::before {
       rgba(136, 136, 206, 0.7)
       
     ), 
-    url(Publicspeaking.jpg);
+    url("Publicspeaking.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
