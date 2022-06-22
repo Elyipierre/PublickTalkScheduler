@@ -22,7 +22,6 @@ body {
   margin: 0;
 }
 
-/* mobile friendly alternative to using background-attachment: fixed */
 body::before {
   content: '';
   position: fixed;
@@ -38,7 +37,7 @@ body::before {
       rgba(136, 136, 206, 0.7)
       
     ),
-    url(https://bn02pap001files.storage.live.com/y4pz9E_4iQYqpkespBy2jRka9hnuqIuJPmhOPQ1X1zWDw1fEN8bEPNJH6U3DaakeFfOXX-TqLwSAYmBFliwwrZO4MWz6j0N4a14JQ9jswhkEINAxixBM4_cBS_3Vb5svOzjYpTvkOGBk4rddbP3hgGVImu0oUoGY7vV8E0W5FyLgvJlSxUCRSiGogMzWB1hG_371VKRyL2Oky_aP9xhWxu6ocpAWXybNtz35p4OMQlc4N8/Publicspeaking.jpg?psid=1&width=1281&height=852);
+    url(Publicspeaking.jpg)
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
